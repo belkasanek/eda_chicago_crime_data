@@ -1,0 +1,27 @@
+Code,Description,Serious offense
+01A,Homicide 1st & 2nd Degree,True
+02,Criminal Sexual Assault,True
+03,Robbery,True
+04A,Aggravated Assault,True
+04B,Aggravated Battery,True
+05,Burglary,True
+06,Larceny,True
+07,Motor Vehicle Theft,True
+09,Arson,True
+01B,Involuntary Manslaughter,False
+08A,Simple Assault,False
+08B,Simple Battery,False
+10,Forgery & Counterfeiting,False
+11,Fraud,False
+12,Embezzlement,False
+13,Stolen Property,False
+14,Vandalism,False
+15,Weapons Violation,False
+16,Prostitution,False
+17,Criminal Sexual Abuse,False
+18,Drug Abuse,False
+19,Gambling,False
+20,Offenses Against Family,False
+22,Liquor License,False
+24,Disorderly Conduct,False
+26,Misc Non-Index Offense,False
