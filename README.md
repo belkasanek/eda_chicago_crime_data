@@ -1,6 +1,6 @@
-﻿# [Kaggle Gun Violence Data](https://www.kaggle.com/jameslko/gun-violence-data)
-Exploratory analysis on gun violence data from kaggle
+﻿# [Chicago Crime](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+Exploratory analysis on Chicago crime data from 2001 to 2018
 ## Interactive maps
 Some of the maps made with [plotly](https://plot.ly/)
-[Nbviewer page](http://nbviewer.jupyter.org/github/belkasanek/kaggle_gun_violence_data/blob/master/gun_violence_eda.ipynb) to see them properly
+[Nbviewer page]() to see them properly
 
