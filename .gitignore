@@ -1,4 +1,15 @@
 .ipynb_checkpoints/
-data/Chicago_crimes.csv
+
+# records with crime
+data/Chicago_Crimes.csv
+
+# location of police stations
 data/Police_Stations.csv
+
+# geojson files with boundaries for different places
+data/Boundaries_Wards
+data/Boundaries_Police_Districts
+data/Boundaries_Community_Areas
+
+# file with mapbox public key
 data/mapbox_public_key
