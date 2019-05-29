@@ -6,8 +6,7 @@ data/Chicago_Crimes.csv
 # location of police stations
 data/Police_Stations.csv
 
-# geojson files with boundaries for different places
-data/Boundaries_Wards
+# geojson files with boundaries for districts and community areas
 data/Boundaries_Police_Districts
 data/Boundaries_Community_Areas
 
