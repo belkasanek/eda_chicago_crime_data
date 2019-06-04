@@ -9,5 +9,6 @@ The data can be downloaded using `download.py`. Description of main dataset can 
 * During years location of crime has changed. Number of incidents on streets decreased, but increased in apartments.
 * During hotter season there are more incidents. 
 * There is increment in larceny and fraud and decrement in drug abuse and aggravated battery during years.
+* There are more crimes on New Year than on casual day.
 ### Interactive maps
 Some of the maps made with [plotly](https://plot.ly/). They can be seen properly through [Nbviewer page](https://nbviewer.jupyter.org/github/belkasanek/eda_chicago_crime_data/blob/master/chicago_crimes_eda.ipynb).
